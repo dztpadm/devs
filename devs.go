@@ -3,6 +3,6 @@ package devs
 
 // Объявление функции, которая возвращает строку:
 func Hello() string {
-	str := "<h1>Привет, C/C++Golang/Js!</h1>"
+	str := "<h1>Привет, C/C++Golang/JS!</h1>"
 	return str
 }
